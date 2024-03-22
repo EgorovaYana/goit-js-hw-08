@@ -10,6 +10,8 @@
   gap: 24px;
   list-style-type: none;
   padding: 40px;
+  max-width: 1208px;
+  margin: 0 auto;
 }
 .gallery-link {
   display: block;
